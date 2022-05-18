@@ -22,3 +22,13 @@ età è un numero?
 età è stata inserita
 km è un numero valido?
 posso inserire un minimo / massimo di km possibili?
+
+
+
+### MIA SOLUZIONA
+- prompt per chiedere l'età
+- prompt per chiedere i kilometri
+- const calcolo del prezzo intero per km
+- const calcolo percentuale sconto 20% per minorenni
+- const calcolo percentuale sconto 40% per over 65
+- 
