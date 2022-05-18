@@ -7,3 +7,12 @@ body {
     border-radius: 20px;
     padding: 1rem;
 }
+
+ul li {
+    list-style-type: none;
+}
+
+.box-ticket {
+    background-color: aliceblue;
+    border-radius: 10px;
+}
